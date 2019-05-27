@@ -1,0 +1,78 @@
+﻿<Page x:Class="rusty.Resources.Pages.Requests.Requests"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:rusty.Resources.Pages.Requests"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Requests">
+    <Grid>
+        <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="1*"/>
+        <ColumnDefinition Width="150"/>
+    </Grid.ColumnDefinitions>
+        <DataGrid AutoGenerateColumns="False" x:Name="requestGrid" Style="{DynamicResource DataGridViev}">
+        <DataGrid.Columns>
+            <DataGridTextColumn x:Name="RequestId" IsReadOnly="True" Binding="{Binding RequestId}" Header="ID" Width="Auto"/>
+                <DataGridTextColumn x:Name="CustomerId" IsReadOnly="True" Binding="{Binding CustomerId}" Header="ID" Width="Auto"/>
+                <DataGridTextColumn x:Name="CustomerName" IsReadOnly="True" Binding="{Binding CustomerName}" Header="Клиент" Width="Auto"/>
+                <DataGridTextColumn x:Name="CarId" IsReadOnly="True" Binding="{Binding CarId}" Header="ID" Width="Auto"/>
+                <DataGridTextColumn x:Name="CarName" IsReadOnly="True" Binding="{Binding CarName}" Header="Авто" Width="Auto"/>
+                <DataGridTextColumn x:Name="Specification" IsReadOnly="True" Binding="{Binding Specification}" Header="Описание" Width="Auto"/>
+                <DataGridTextColumn x:Name="Service" IsReadOnly="True" Binding="{Binding Service.ServiceName}" Header="Услуга" Width="Auto"/>
+                <DataGridTextColumn x:Name="StorageId" IsReadOnly="True" Binding="{Binding StorageId}" Header="ID" Width="Auto"/>
+                <DataGridTextColumn x:Name="StorageName" IsReadOnly="True" Binding="{Binding StorageName}" Header="Деталь на замену" Width="Auto"/>
+                <DataGridTextColumn x:Name="Status" IsReadOnly="True" Binding="{Binding Status}" Header="Статус заявки" Width="Auto"/>
+                <DataGridTextColumn x:Name="ImagieOn" IsReadOnly="True" Binding="{Binding ImagieOn}" Header="Наличие фото" Width="Auto"/>
+
+                <!--<DataGridTemplateColumn>
+                    <DataGridTemplateColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="Фото"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.HeaderTemplate>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock x:Name="CheckedImage"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>-->
+            </DataGrid.Columns>
+    </DataGrid>
+    <StackPanel Grid.Column="1" Background="Black">
+            <ListView FontFamily="Impact" FontSize="14"  BorderBrush="Yellow" BorderThickness="1">
+            <ListViewItem x:Name="Add" PreviewMouseDown="Add_PreviewMouseDown">
+                <StackPanel Orientation="Horizontal" >
+                    <TextBlock x:Name="ListImageAdd" Text="&#xE136;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                    <TextBlock x:Name="ListTextAdd" Margin="10 0 0 0" VerticalAlignment="Center" Text="Создать заявку"/>
+                </StackPanel>
+            </ListViewItem>
+            <ListViewItem x:Name="Update" PreviewMouseDown="Update_PreviewMouseDown">
+                <StackPanel Orientation="Horizontal" >
+                    <TextBlock x:Name="ListImageUpdate" Text="&#xE136;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                    <TextBlock x:Name="ListTextUpdate" Margin="10 0 0 0" VerticalAlignment="Center" Text="Изменить"/>
+                </StackPanel>
+            </ListViewItem>
+                <ListViewItem x:Name="Viev" PreviewMouseDown="Viev_PreviewMouseDown">
+                    <StackPanel Orientation="Horizontal" >
+                        <TextBlock x:Name="ListImageViev" Text="&#xE136;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock x:Name="ListTextViev" Margin="10 0 0 0" VerticalAlignment="Center" Text="Изображение"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem x:Name="AddCar" PreviewMouseDown="AddCar_PreviewMouseDown">
+                    <StackPanel Orientation="Horizontal" >
+                        <TextBlock x:Name="ListImageAddCar" Text="&#xE136;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock x:Name="ListTextAddCar" Margin="10 0 0 0" VerticalAlignment="Center" Text="Добавить авто"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem x:Name="Delete" PreviewMouseDown="Delete_PreviewMouseDown">
+                <StackPanel Orientation="Horizontal" >
+                    <TextBlock x:Name="ListImageDelete" Text="&#xE136;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                    <TextBlock x:Name="ListTextDelete" Margin="10 0 0 0" VerticalAlignment="Center" Text="Удалить"/>
+                </StackPanel>
+            </ListViewItem>
+        </ListView>
+    </StackPanel>
+    </Grid>
+</Page>

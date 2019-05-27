@@ -1,0 +1,77 @@
+﻿<Window x:Class="rusty.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:rusty"
+        mc:Ignorable="d"
+        Title="RustySTO authorization" Height="300" Width="350" x:Name="WindowAuth" WindowStartupLocation="CenterScreen" 
+        ResizeMode="NoResize" WindowStyle="None" Icon="Resources/Images/GTO.ico">
+    <Window.Background>
+        <ImageBrush ImageSource="Resources/Images/8.jpg" Stretch="UniformToFill"/>
+    </Window.Background>
+  
+    <Grid>
+        
+        <Grid.Background>
+            <SolidColorBrush Color="Gray" Opacity="0.65"/>
+        </Grid.Background>
+        
+            <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="70"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="70"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50*"/>
+            
+
+        </Grid.RowDefinitions>
+        <Image Grid.Column="1" Source="Resources/Images/GTO.ico" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="-1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="Close" Grid.Column="2" Source="Resources/Images/Cross.png" Width="30" Height="25" HorizontalAlignment="Right" VerticalAlignment="Top" PreviewMouseDown="Close_PreviewMouseDown"/>
+        <Label Grid.Column="1" Grid.Row="1" Content="SIGN IN" HorizontalAlignment="Center" FontFamily="Impact" FontSize="18"/>
+        <Label Grid.Column="1" Grid.Row="2" Content="Login" VerticalAlignment="Top" FontFamily="Impact" FontSize="11"/>
+        <TextBox x:Name="LoginBox" Grid.Column="1" Grid.Row="2" Background="White" Height="30" VerticalAlignment="Bottom"
+                 Padding="5" BorderBrush="Yellow" FontFamily="Impact" FontSize="14"/>
+        <Label Grid.Column="1" Grid.Row="3" Content="Password" VerticalAlignment="Top"
+               FontFamily="Impact" FontSize="11"/>
+        <PasswordBox x:Name="PasswordBox" Grid.Column="1" Grid.Row="3" Background="White" Height="30" VerticalAlignment="Bottom"
+                     Padding="5" BorderBrush="Yellow" FontFamily="Impact" FontSize="16"/>
+        <Button Grid.Column="1" Grid.Row="4" Background="Black" Height="30" VerticalAlignment="Bottom"
+                 Content="SIGN IN" Foreground="White" BorderBrush="Yellow"
+                FontFamily="Impact" FontSize="18" x:Name="SIGN_IN" Click="SIGN_IN_Click"/>
+        <Label Grid.Column="1" Grid.Row="5" HorizontalAlignment="Center" Content="SIGN UP" FontFamily="Impact" FontSize="12"
+              VerticalAlignment="Top" PreviewMouseDown="ButtonSingUP_PreviewMouseDown" x:Name="ButtonSingUP"/>
+
+
+        <Label Grid.Column="1" Grid.Row="6" Content="Login" VerticalAlignment="Top" FontFamily="Impact" FontSize="11"/>
+        <TextBox x:Name="NewLoginBox" Grid.Column="1" Grid.Row="6" Background="White" Height="30" VerticalAlignment="Bottom"
+                 Padding="5" BorderBrush="Yellow" FontFamily="Impact" FontSize="14"/>
+        <Label Grid.Column="1" Grid.Row="7" Content="Password" VerticalAlignment="Top"
+               FontFamily="Impact" FontSize="11"/>
+        <PasswordBox x:Name="NewPasswordBox" Grid.Column="1" Grid.Row="7" Background="White" Height="30" VerticalAlignment="Bottom"
+                     Padding="5" BorderBrush="Yellow" FontFamily="Impact" FontSize="16"/>
+        <Button Grid.Column="1" Grid.Row="8" Background="Black" Height="30" VerticalAlignment="Bottom"
+                 Content="SIGN UP" Foreground="White" BorderBrush="Yellow"  x:Name="SIGN_" Click="SIGN_UP_Click"
+                FontFamily="Impact" FontSize="18"/>
+
+    </Grid>
+</Window>

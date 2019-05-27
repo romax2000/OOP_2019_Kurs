@@ -1,0 +1,51 @@
+﻿<Page x:Class="rusty.Resources.Pages.Cars.Cars"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:rusty.Resources.Pages.Cars"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Cars">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="150"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid AutoGenerateColumns="False" x:Name="carGrid" Style="{DynamicResource DataGridViev}">
+            <DataGrid.Columns>
+                <DataGridTextColumn IsReadOnly="True" x:Name="CarId" Binding="{Binding CarId}" Header="ID" Width="Auto"/>
+                <DataGridTextColumn IsReadOnly="True" x:Name="CarMark" Binding="{Binding CarMark}" Header="Марка" Width="Auto"/>
+                <DataGridTextColumn IsReadOnly="True" x:Name="CarModel" Binding="{Binding CarModel}" Header="Модель" Width="Auto"/>
+                <DataGridTextColumn IsReadOnly="True" x:Name="Year" Binding="{Binding Year}" Header="Год" Width="Auto"/>
+                <DataGridTextColumn IsReadOnly="True" x:Name="Color" Binding="{Binding Color}" Header="Цвет" Width="Auto"/>
+                <DataGridTextColumn IsReadOnly="True" x:Name="RegNummber" Binding="{Binding RegNummber}" Header="Регистрационный номер" Width="Auto"/>
+                <DataGridTextColumn IsReadOnly="True" x:Name="Engine" Binding="{Binding Engine}" Header="Двигатель" Width="Auto"/>
+                <DataGridTextColumn IsReadOnly="True" x:Name="Body" Binding="{Binding Body}" Header="Кузов" Width="Auto"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Column="1" Background="Black">
+            <ListView FontFamily="Impact" FontSize="14"  BorderBrush="Yellow" BorderThickness="1">
+                <ListViewItem x:Name="Add" PreviewMouseDown="Add_PreviewMouseDown">
+                    <StackPanel Orientation="Horizontal" >
+                        <TextBlock x:Name="ListImageAdd" Text="&#xE136;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock x:Name="ListTextAdd" Margin="10 0 0 0" VerticalAlignment="Center" Text="Добавить"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem x:Name="Update" PreviewMouseDown="Update_PreviewMouseDown">
+                    <StackPanel Orientation="Horizontal" >
+                        <TextBlock x:Name="ListImageUpdate" Text="&#xE136;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock x:Name="ListTextUpdate" Margin="10 0 0 0" VerticalAlignment="Center" Text="Изменить"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem x:Name="Delete" PreviewMouseDown="Delete_PreviewMouseDown">
+                    <StackPanel Orientation="Horizontal" >
+                        <TextBlock x:Name="ListImageDelete" Text="&#xE136;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock x:Name="ListTextDelete" Margin="10 0 0 0" VerticalAlignment="Center" Text="Удалить"/>
+                    </StackPanel>
+                </ListViewItem>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</Page>

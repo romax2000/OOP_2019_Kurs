@@ -1,0 +1,126 @@
+﻿<Window x:Class="rusty.GranWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:rusty"
+        mc:Ignorable="d"
+        Title="RustySTO" x:Name="Gran" Height="450" Width="800" WindowState="Maximized" Loaded="Window_Loaded" Icon="Resources/Images/GTO.ico">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="150"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Frame x:Name="MyFrame" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" Background="Gray" BorderBrush="Black"/>
+        <Menu Grid.ColumnSpan="2" Background="Black" BorderBrush="Yellow" BorderThickness="1" Foreground="White" FontFamily="Impact" FontSize="14">
+            <MenuItem Header="Файл" Height="30" Foreground="White">
+                <TextBlock x:Name="to_gran" Text="На главную" Foreground="Black" MouseDown="To_gran_MouseDown" ></TextBlock>
+                <TextBlock x:Name="Exit" Text="Выход" Foreground="Black" MouseDown="Exit_MouseDown"></TextBlock>
+            </MenuItem>
+            <MenuItem Header="Помощь" Height="30" HorizontalAlignment="Right" Foreground="White">
+                <TextBlock x:Name="Readme" Text="Руководство" Foreground="Black" MouseDown="Readme_MouseDown" ></TextBlock>
+                <TextBlock x:Name="Help" Text="О программе" Foreground="Black" MouseDown="Help_MouseDown"></TextBlock>
+            </MenuItem>
+        </Menu>
+        <Menu Grid.Column="2" Width="150" Background="Black" BorderBrush="Yellow" BorderThickness="1" Foreground="White" FontFamily="Impact" FontSize="14" >
+            <MenuItem x:Name="office" Header="Личный кабинет" Height="30" Width="150" Foreground="White">
+                <TextBlock x:Name="go_inside" Text="Войти в кабинет" MouseDown="Go_inside_MouseDown" Foreground="Black"/>
+              
+                <TextBlock x:Name="go_out" Text="Выйти из аккаунта" MouseDown="Go_out_MouseDown" Foreground="Black"/>
+            </MenuItem>
+        </Menu>
+
+        <StackPanel Grid.Column="0" Grid.Row="1" Background="Black" >
+            <ListView BorderBrush="Yellow" BorderThickness="1" Background="Black" Foreground="White" FontFamily="Impact" FontSize="14">
+                <ListViewItem x:Name="Orders" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave"  Selected="Orders_Selected"> 
+                    <StackPanel Orientation="Horizontal" x:Name="ListOrders" >
+                        <TextBlock x:Name="ListImageOrders" Text="&#xE141;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock x:Name="ListTextOrders" Margin="10 0 0 0" VerticalAlignment="Center" Text="Заказы"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem x:Name="Requests" Selected="Requests_Selected" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave">
+                    <StackPanel  Orientation="Horizontal">
+                        <TextBlock Text="&#xE120;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock Margin="10 0 0 0" VerticalAlignment="Center" Text="Заявки"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem x:Name="Storage" Selected="Storage_Selected" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave" >
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="&#xE80A;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock Margin="10 0 0 0" VerticalAlignment="Center" Text="Склад"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem x:Name="Masters" Selected="Masters_Selected" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="&#xE822;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock Margin="10 0 0 0" VerticalAlignment="Center" Text="Мастера"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem x:Name="Customers" Selected="Customers_Selected" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave" >
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="&#xE716;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock Margin="10 0 0 0" VerticalAlignment="Center" Text="Клиенты"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem x:Name="Workplaces" Selected="Workplaces_Selected" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="&#xE15E;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock Margin="10 0 0 0" VerticalAlignment="Center" Text="Рабочие места"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem x:Name="Service" Selected="Service_Selected" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="&#xE8FB;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock Margin="10 0 0 0" VerticalAlignment="Center" Text="Услуги"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem x:Name="Cars" Selected="Cars_Selected" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="&#xED57;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock Margin="10 0 0 0" VerticalAlignment="Center" Text="Авто"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem x:Name="Supply" Selected="Supply_Selected" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="&#xEE92;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock Margin="10 0 0 0" VerticalAlignment="Center" Text="Поставки"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem x:Name="Shippers" Selected="Shippers_Selected" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="&#xEA4A;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock Margin="10 0 0 0" VerticalAlignment="Center" Text="Поставщики"/>
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem x:Name="Users" Selected="Users_Selected" MouseEnter="Color_MouseEnter" MouseLeave="Color_MouseLeave">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="&#xE899;" FontFamily="Segoe MDL2 Assets" FontSize="20" Padding="2"/>
+                        <TextBlock Margin="10 0 0 0" VerticalAlignment="Center" Text="Пользователи"/>
+                    </StackPanel>
+                </ListViewItem>
+            </ListView>
+            <Grid Height="100">
+                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="50"></RowDefinition>
+                            <RowDefinition Height="50"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Label x:Name="GetTime" Grid.Row="0" Foreground="White" FontSize="35" FontFamily="Impact" Height="50" Width="150"
+                       HorizontalAlignment="Left" VerticalAlignment="Center" HorizontalContentAlignment="Center"
+                VerticalContentAlignment="Bottom"/>
+                <Label x:Name="GetDate" Grid.Row="1" Height="50" Width="150" Foreground="Yellow" FontSize="25" FontFamily="Impact"
+                       HorizontalAlignment="Left" VerticalAlignment="Center" HorizontalContentAlignment="Center"/>
+                        </Grid>
+            </StackPanel>
+    </Grid>
+    </StackPanel>
+        
+            
+    </Grid>
+</Window>

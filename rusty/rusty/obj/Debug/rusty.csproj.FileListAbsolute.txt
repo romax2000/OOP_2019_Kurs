@@ -1,0 +1,319 @@
+D:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\bin\Debug\rusty.exe.config
+D:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\bin\Debug\rusty.exe
+D:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\bin\Debug\rusty.pdb
+D:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\rusty.csprojAssemblyReference.cache
+D:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\MainWindow.g.cs
+D:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\App.g.cs
+D:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\rusty_MarkupCompile.cache
+D:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\rusty_MarkupCompile.lref
+D:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\MainWindow.baml
+D:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\rusty.g.resources
+D:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\rusty.Properties.Resources.resources
+D:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\rusty.csproj.GenerateResource.cache
+D:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\rusty.csproj.CoreCompileInputs.cache
+D:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\rusty.exe
+D:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\rusty.pdb
+d:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\GranWin.g.cs
+d:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\GranWin.baml
+d:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\Resources\Pages\Orders\Page1.g.cs
+d:\Dokuments\ООП\Курсач Ржавый\rusty\rusty\rusty\obj\Debug\Resources\Pages\Orders\Page1.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\bin\Debug\rusty.exe.config
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\bin\Debug\rusty.exe
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\bin\Debug\rusty.pdb
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\bin\Debug\EntityFramework.dll
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\bin\Debug\EntityFramework.SqlServer.dll
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\bin\Debug\EntityFramework.xml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\bin\Debug\EntityFramework.SqlServer.xml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\rusty.csprojAssemblyReference.cache
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\GranWin.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\MainWindow.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Orders\Page1.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\App.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\rusty_MarkupCompile.cache
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\rusty_MarkupCompile.lref
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\GranWin.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\MainWindow.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Orders\Page1.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\rusty.g.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\rusty.Properties.Resources.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\rusty.csproj.GenerateResource.cache
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\rusty.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\rusty.csproj.CopyComplete
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\rusty.exe
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\3\rusty\rusty\rusty\obj\Debug\rusty.pdb
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\bin\Debug\rusty.exe.config
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\bin\Debug\rusty.exe
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\bin\Debug\rusty.pdb
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\bin\Debug\EntityFramework.dll
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\bin\Debug\EntityFramework.xml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.csprojAssemblyReference.cache
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\GranWin.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\MainWindow.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\App.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty_MarkupCompile.cache
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty_MarkupCompile.lref
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\GranWin.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\MainWindow.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.g.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Properties.Resources.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.csproj.GenerateResource.cache
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.csproj.CoreCompileInputs.cache
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.csproj.CopyComplete
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.exe
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.pdb
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.InitialCreate.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.MigrateDbSupply.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Orders\Orders.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Requests\Requests.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Storage\Storage.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Orders\Orders.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Requests\Requests.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Storage\Storage.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Customers\Customers.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Masters\Masters.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Customers\Customers.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Masters\Masters.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Cars\Cars.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Shippers\Shippers.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Supply\Supply.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Workplaces\Workplaces.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Cars\Cars.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Shippers\Shippers.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Supply\Supply.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Workplaces\Workplaces.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.Car.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.Storage.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.Storage2.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.CustReq.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.try2.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.try3.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.try4.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.try5.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.try6.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.try7.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.try8.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.try9.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.try10.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Supply\AddSupply.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Supply\AddSupply.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.User.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Supply\UpdateSupply.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Supply\UpdateSupply.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Workplaces\AddWorkplace.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Workplaces\UpdateWorkplace.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Workplaces\AddWorkplace.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Workplaces\UpdateWorkplace.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Shippers\AddShipper.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Shippers\UpdateShipper.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Shippers\AddShipper.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Shippers\UpdateShipper.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\App.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Style\DataGrid.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Storage\AddStorage.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Storage\AddStorage.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.errorkill.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Storage\UpdateStorage.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Storage\UpdateStorage.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.errorkill2.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Cars\AddCar.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Cars\UpdateCar.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Cars\AddCar.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Cars\UpdateCar.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Customers\AddCustomer.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Customers\UpdateCustomer.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Customers\AddCustomer.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Customers\UpdateCustomer.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Users\AddUser.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Users\UpdateUser.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Users\Users.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Users\AddUser.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Users\UpdateUser.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Users\Users.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Masters\AddMaster.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Masters\UpdateMaster.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Masters\AddMaster.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Masters\UpdateMaster.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Orders\AddOrder.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Orders\UpdateOrder.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Requests\AddRequest.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Requests\UpdateRequest.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Orders\AddOrder.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Orders\UpdateOrder.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Requests\AddRequest.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Requests\UpdateRequest.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.errorkill5.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.errorkill6.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.errorkill7.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Office\Office.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Office\Office.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\GranPage\GranPage.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\GranPage\GranPage.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Requests\RequestImagie.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Requests\RequestImagie.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Style\Button.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Style\ComboBox.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Style\Label.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Style\TextBox.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.errorkill8.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.errorkill9.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.errorkill10.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Services\AddService.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Services\Services.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Services\UpdateService.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Services\AddService.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Services\Services.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Services\UpdateService.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.errorkill11.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.errorkill12.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\rusty.Migrations.errorkill13.resources
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Style\CustomMessageBox\CustomMessageBox.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Style\CustomMessageBox\ButtonStyle.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Style\CustomMessageBox\CustomMessageBox.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Style\CustomMessageBox\TextBoxStyle.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Style\CustomMessageBox\WindowStyle.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Office\OfficeMaster.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Office\OfficeMaster.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Office\OfficeAdmin.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Office\OfficeAdmin.baml
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Help\Help.g.cs
+C:\Users\ROMAX-1\Desktop\3\rusty\rusty\rusty\obj\Debug\Resources\Pages\Help\Help.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\bin\Debug\rusty.exe.config
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\bin\Debug\rusty.exe
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\bin\Debug\rusty.pdb
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\bin\Debug\EntityFramework.dll
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\bin\Debug\EntityFramework.SqlServer.dll
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\bin\Debug\EntityFramework.xml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\bin\Debug\EntityFramework.SqlServer.xml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.csprojAssemblyReference.cache
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\GranWin.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\MainWindow.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Cars\AddCar.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Cars\Cars.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Cars\UpdateCar.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Customers\AddCustomer.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Customers\Customers.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Customers\UpdateCustomer.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\GranPage\GranPage.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Help\Help.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Masters\AddMaster.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Masters\Masters.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Masters\UpdateMaster.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Office\Office.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Office\OfficeAdmin.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Office\OfficeMaster.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Orders\AddOrder.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Orders\Orders.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Orders\UpdateOrder.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Requests\AddRequest.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Requests\RequestImagie.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Requests\Requests.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Requests\UpdateRequest.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Services\AddService.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Services\Services.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Services\UpdateService.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Shippers\AddShipper.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Shippers\Shippers.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Shippers\UpdateShipper.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Storage\AddStorage.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Storage\Storage.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Storage\UpdateStorage.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Supply\AddSupply.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Supply\Supply.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Supply\UpdateSupply.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Users\AddUser.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Users\UpdateUser.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Users\Users.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Workplaces\AddWorkplace.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Workplaces\UpdateWorkplace.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Workplaces\Workplaces.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Style\CustomMessageBox\CustomMessageBox.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\App.g.cs
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty_MarkupCompile.cache
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty_MarkupCompile.lref
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\App.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\GranWin.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\MainWindow.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Cars\AddCar.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Cars\Cars.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Cars\UpdateCar.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Customers\AddCustomer.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Customers\Customers.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Customers\UpdateCustomer.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\GranPage\GranPage.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Help\Help.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Masters\AddMaster.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Masters\Masters.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Masters\UpdateMaster.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Office\Office.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Office\OfficeAdmin.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Office\OfficeMaster.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Orders\AddOrder.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Orders\Orders.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Orders\UpdateOrder.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Requests\AddRequest.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Requests\RequestImagie.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Requests\Requests.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Requests\UpdateRequest.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Services\AddService.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Services\Services.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Services\UpdateService.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Shippers\AddShipper.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Shippers\Shippers.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Shippers\UpdateShipper.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Storage\AddStorage.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Storage\Storage.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Storage\UpdateStorage.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Supply\AddSupply.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Supply\Supply.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Supply\UpdateSupply.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Users\AddUser.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Users\UpdateUser.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Users\Users.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Workplaces\AddWorkplace.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Workplaces\UpdateWorkplace.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Pages\Workplaces\Workplaces.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Style\Button.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Style\ComboBox.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Style\CustomMessageBox\ButtonStyle.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Style\CustomMessageBox\CustomMessageBox.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Style\CustomMessageBox\TextBoxStyle.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Style\CustomMessageBox\WindowStyle.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Style\DataGrid.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Style\Label.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\Resources\Style\TextBox.baml
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.g.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.InitialCreate.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.MigrateDbSupply.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.Car.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.Storage.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.Storage2.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.CustReq.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.try2.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.try3.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.try4.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.try5.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.try6.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.try7.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.try8.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.try9.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.try10.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.User.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.errorkill.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.errorkill2.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.errorkill5.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.errorkill6.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.errorkill7.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.errorkill8.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.errorkill9.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.errorkill10.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.errorkill11.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.errorkill12.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Migrations.errorkill13.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.Properties.Resources.resources
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.csproj.GenerateResource.cache
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.csproj.CopyComplete
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.exe
+\\VBOXSVR\Dokuments\ООП\Курсач Ржавый\Куровой проект\rusty\rusty\obj\Debug\rusty.pdb

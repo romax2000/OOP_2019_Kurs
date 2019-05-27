@@ -1,0 +1,644 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1B092569-15E1-44EF-A1D5-5062C2AC5063}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>rusty</RootNamespace>
+    <AssemblyName>rusty</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Migrations\201904301159185_InitialCreate.cs" />
+    <Compile Include="Migrations\201904301159185_InitialCreate.Designer.cs">
+      <DependentUpon>201904301159185_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201904301319590_MigrateDbSupply.cs" />
+    <Compile Include="Migrations\201904301319590_MigrateDbSupply.Designer.cs">
+      <DependentUpon>201904301319590_MigrateDbSupply.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905082226067_Car.cs" />
+    <Compile Include="Migrations\201905082226067_Car.Designer.cs">
+      <DependentUpon>201905082226067_Car.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905101013056_Storage.cs" />
+    <Compile Include="Migrations\201905101013056_Storage.Designer.cs">
+      <DependentUpon>201905101013056_Storage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905101029215_Storage2.cs" />
+    <Compile Include="Migrations\201905101029215_Storage2.Designer.cs">
+      <DependentUpon>201905101029215_Storage2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905101444534_CustReq.cs" />
+    <Compile Include="Migrations\201905101444534_CustReq.Designer.cs">
+      <DependentUpon>201905101444534_CustReq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905101539513_try2.cs" />
+    <Compile Include="Migrations\201905101539513_try2.Designer.cs">
+      <DependentUpon>201905101539513_try2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905101931484_try3.cs" />
+    <Compile Include="Migrations\201905101931484_try3.Designer.cs">
+      <DependentUpon>201905101931484_try3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905101932461_try4.cs" />
+    <Compile Include="Migrations\201905101932461_try4.Designer.cs">
+      <DependentUpon>201905101932461_try4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905101933430_try5.cs" />
+    <Compile Include="Migrations\201905101933430_try5.Designer.cs">
+      <DependentUpon>201905101933430_try5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905101935004_try6.cs" />
+    <Compile Include="Migrations\201905101935004_try6.Designer.cs">
+      <DependentUpon>201905101935004_try6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905101936244_try7.cs" />
+    <Compile Include="Migrations\201905101936244_try7.Designer.cs">
+      <DependentUpon>201905101936244_try7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905101951040_try8.cs" />
+    <Compile Include="Migrations\201905101951040_try8.Designer.cs">
+      <DependentUpon>201905101951040_try8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905101951547_try9.cs" />
+    <Compile Include="Migrations\201905101951547_try9.Designer.cs">
+      <DependentUpon>201905101951547_try9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905102249362_try10.cs" />
+    <Compile Include="Migrations\201905102249362_try10.Designer.cs">
+      <DependentUpon>201905102249362_try10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905131259433_User.cs" />
+    <Compile Include="Migrations\201905131259433_User.Designer.cs">
+      <DependentUpon>201905131259433_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905141849094_errorkill.cs" />
+    <Compile Include="Migrations\201905141849094_errorkill.Designer.cs">
+      <DependentUpon>201905141849094_errorkill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905142008543_errorkill2.cs" />
+    <Compile Include="Migrations\201905142008543_errorkill2.Designer.cs">
+      <DependentUpon>201905142008543_errorkill2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905191222382_errorkill5.cs" />
+    <Compile Include="Migrations\201905191222382_errorkill5.Designer.cs">
+      <DependentUpon>201905191222382_errorkill5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905191230001_errorkill6.cs" />
+    <Compile Include="Migrations\201905191230001_errorkill6.Designer.cs">
+      <DependentUpon>201905191230001_errorkill6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905191318173_errorkill7.cs" />
+    <Compile Include="Migrations\201905191318173_errorkill7.Designer.cs">
+      <DependentUpon>201905191318173_errorkill7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905202122588_errorkill8.cs" />
+    <Compile Include="Migrations\201905202122588_errorkill8.Designer.cs">
+      <DependentUpon>201905202122588_errorkill8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905202210113_errorkill9.cs" />
+    <Compile Include="Migrations\201905202210113_errorkill9.Designer.cs">
+      <DependentUpon>201905202210113_errorkill9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905210818458_errorkill10.cs" />
+    <Compile Include="Migrations\201905210818458_errorkill10.Designer.cs">
+      <DependentUpon>201905210818458_errorkill10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905211057568_errorkill11.cs" />
+    <Compile Include="Migrations\201905211057568_errorkill11.Designer.cs">
+      <DependentUpon>201905211057568_errorkill11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905211113471_errorkill12.cs" />
+    <Compile Include="Migrations\201905211113471_errorkill12.Designer.cs">
+      <DependentUpon>201905211113471_errorkill12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905211432067_errorkill13.cs" />
+    <Compile Include="Migrations\201905211432067_errorkill13.Designer.cs">
+      <DependentUpon>201905211432067_errorkill13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Resources\Model\Car.cs" />
+    <Compile Include="Resources\Model\Customer.cs" />
+    <Compile Include="Resources\Model\Master.cs" />
+    <Compile Include="Resources\Model\Order.cs" />
+    <Compile Include="Resources\Model\Request.cs" />
+    <Compile Include="Resources\Model\Service.cs" />
+    <Compile Include="Resources\Model\Shipper.cs" />
+    <Compile Include="Resources\Model\STOModelContext.cs" />
+    <Compile Include="Resources\Model\Storage.cs" />
+    <Compile Include="Resources\Model\Supply.cs" />
+    <Compile Include="Resources\Model\User.cs" />
+    <Compile Include="Resources\Model\Workplace.cs" />
+    <Compile Include="Resources\Pages\Cars\AddCar.xaml.cs">
+      <DependentUpon>AddCar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Cars\Cars.xaml.cs">
+      <DependentUpon>Cars.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Cars\UpdateCar.xaml.cs">
+      <DependentUpon>UpdateCar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Customers\AddCustomer.xaml.cs">
+      <DependentUpon>AddCustomer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Customers\Customers.xaml.cs">
+      <DependentUpon>Customers.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Customers\UpdateCustomer.xaml.cs">
+      <DependentUpon>UpdateCustomer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\GranPage\GranPage.xaml.cs">
+      <DependentUpon>GranPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Help\Help.xaml.cs">
+      <DependentUpon>Help.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Masters\AddMaster.xaml.cs">
+      <DependentUpon>AddMaster.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Masters\Masters.xaml.cs">
+      <DependentUpon>Masters.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Masters\UpdateMaster.xaml.cs">
+      <DependentUpon>UpdateMaster.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Office\Office.xaml.cs">
+      <DependentUpon>Office.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Office\OfficeAdmin.xaml.cs">
+      <DependentUpon>OfficeAdmin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Office\OfficeMaster.xaml.cs">
+      <DependentUpon>OfficeMaster.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Orders\AddOrder.xaml.cs">
+      <DependentUpon>AddOrder.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Orders\Orders.xaml.cs">
+      <DependentUpon>Orders.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Orders\UpdateOrder.xaml.cs">
+      <DependentUpon>UpdateOrder.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Requests\AddRequest.xaml.cs">
+      <DependentUpon>AddRequest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Requests\RequestImagie.xaml.cs">
+      <DependentUpon>RequestImagie.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Requests\Requests.xaml.cs">
+      <DependentUpon>Requests.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Requests\UpdateRequest.xaml.cs">
+      <DependentUpon>UpdateRequest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Services\AddService.xaml.cs">
+      <DependentUpon>AddService.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Services\Services.xaml.cs">
+      <DependentUpon>Services.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Services\UpdateService.xaml.cs">
+      <DependentUpon>UpdateService.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Shippers\AddShipper.xaml.cs">
+      <DependentUpon>AddShipper.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Shippers\Shippers.xaml.cs">
+      <DependentUpon>Shippers.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Shippers\UpdateShipper.xaml.cs">
+      <DependentUpon>UpdateShipper.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Storage\AddStorage.xaml.cs">
+      <DependentUpon>AddStorage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Storage\Storage.xaml.cs">
+      <DependentUpon>Storage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Storage\UpdateStorage.xaml.cs">
+      <DependentUpon>UpdateStorage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Supply\AddSupply.xaml.cs">
+      <DependentUpon>AddSupply.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Supply\Supply.xaml.cs">
+      <DependentUpon>Supply.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Supply\UpdateSupply.xaml.cs">
+      <DependentUpon>UpdateSupply.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Users\AddUser.xaml.cs">
+      <DependentUpon>AddUser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Users\UpdateUser.xaml.cs">
+      <DependentUpon>UpdateUser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Users\Users.xaml.cs">
+      <DependentUpon>Users.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Workplaces\AddWorkplace.xaml.cs">
+      <DependentUpon>AddWorkplace.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Workplaces\UpdateWorkplace.xaml.cs">
+      <DependentUpon>UpdateWorkplace.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Pages\Workplaces\Workplaces.xaml.cs">
+      <DependentUpon>Workplaces.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\Patterns\GenRep.cs" />
+    <Compile Include="Resources\Patterns\UnitOfWork.cs" />
+    <Compile Include="Resources\Style\CustomMessageBox\CustomMessageBox.xaml.cs">
+      <DependentUpon>CustomMessageBox.xaml</DependentUpon>
+    </Compile>
+    <Page Include="GranWin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GranWin.xaml.cs">
+      <DependentUpon>GranWin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Resources\Pages\Cars\AddCar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Cars\Cars.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Cars\UpdateCar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Customers\AddCustomer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Customers\Customers.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Customers\UpdateCustomer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\GranPage\GranPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Help\Help.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Masters\AddMaster.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Masters\Masters.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Masters\UpdateMaster.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Office\Office.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Office\OfficeAdmin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Office\OfficeMaster.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Orders\AddOrder.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Orders\Orders.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Orders\UpdateOrder.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Requests\AddRequest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Requests\RequestImagie.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Requests\Requests.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Requests\UpdateRequest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Services\AddService.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Services\Services.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Services\UpdateService.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Shippers\AddShipper.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Shippers\Shippers.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Shippers\UpdateShipper.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Storage\AddStorage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Storage\Storage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Storage\UpdateStorage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Supply\AddSupply.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Supply\Supply.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Supply\UpdateSupply.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Users\AddUser.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Users\UpdateUser.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Users\Users.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Workplaces\AddWorkplace.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Workplaces\UpdateWorkplace.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Pages\Workplaces\Workplaces.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Style\Button.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Style\ComboBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Style\CustomMessageBox\ButtonStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Style\CustomMessageBox\CustomMessageBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Style\CustomMessageBox\TextBoxStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Style\CustomMessageBox\WindowStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Style\DataGrid.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Style\Label.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Style\TextBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Migrations\201904301159185_InitialCreate.resx">
+      <DependentUpon>201904301159185_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201904301319590_MigrateDbSupply.resx">
+      <DependentUpon>201904301319590_MigrateDbSupply.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905082226067_Car.resx">
+      <DependentUpon>201905082226067_Car.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905101013056_Storage.resx">
+      <DependentUpon>201905101013056_Storage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905101029215_Storage2.resx">
+      <DependentUpon>201905101029215_Storage2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905101444534_CustReq.resx">
+      <DependentUpon>201905101444534_CustReq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905101539513_try2.resx">
+      <DependentUpon>201905101539513_try2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905101931484_try3.resx">
+      <DependentUpon>201905101931484_try3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905101932461_try4.resx">
+      <DependentUpon>201905101932461_try4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905101933430_try5.resx">
+      <DependentUpon>201905101933430_try5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905101935004_try6.resx">
+      <DependentUpon>201905101935004_try6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905101936244_try7.resx">
+      <DependentUpon>201905101936244_try7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905101951040_try8.resx">
+      <DependentUpon>201905101951040_try8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905101951547_try9.resx">
+      <DependentUpon>201905101951547_try9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905102249362_try10.resx">
+      <DependentUpon>201905102249362_try10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905131259433_User.resx">
+      <DependentUpon>201905131259433_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905141849094_errorkill.resx">
+      <DependentUpon>201905141849094_errorkill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905142008543_errorkill2.resx">
+      <DependentUpon>201905142008543_errorkill2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905191222382_errorkill5.resx">
+      <DependentUpon>201905191222382_errorkill5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905191230001_errorkill6.resx">
+      <DependentUpon>201905191230001_errorkill6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905191318173_errorkill7.resx">
+      <DependentUpon>201905191318173_errorkill7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905202122588_errorkill8.resx">
+      <DependentUpon>201905202122588_errorkill8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905202210113_errorkill9.resx">
+      <DependentUpon>201905202210113_errorkill9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905210818458_errorkill10.resx">
+      <DependentUpon>201905210818458_errorkill10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905211057568_errorkill11.resx">
+      <DependentUpon>201905211057568_errorkill11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905211113471_errorkill12.resx">
+      <DependentUpon>201905211113471_errorkill12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905211432067_errorkill13.resx">
+      <DependentUpon>201905211432067_errorkill13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\Documents\Readme.docx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Images\8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Images\Camaro.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Images\GTO.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Images\Cross.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
